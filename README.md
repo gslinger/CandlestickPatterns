@@ -13,20 +13,20 @@ Additionally, i have included an example .xlsm with AAPL daily data, with the mo
 
 
 # Current Pattern List:
--BearishEngulfing 
--DarkCloudCover
--ThreeOutsideDown 
--EveningStarDoji 
--BearishHarami
--ThreeInsideDown 
--ThreeBlackCrows 
--EveningStar 
+- BearishEngulfing 
+- DarkCloudCover
+- ThreeOutsideDown 
+- EveningStarDoji 
+- BearishHarami
+- ThreeInsideDown 
+- ThreeBlackCrows 
+- EveningStar 
 '''
--BullishEngulfing 
--ThreeOutsideUp 
--BullishHarami 
--ThreeInsideUp 
--PiercingLine 
+- BullishEngulfing 
+- ThreeOutsideUp 
+- BullishHarami 
+- ThreeInsideUp 
+- PiercingLine 
 
 # To-Do 
 - Add more candle stick patterns
