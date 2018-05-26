@@ -21,7 +21,9 @@ Additionally, i have included an example .xlsm with AAPL daily data, with the mo
 - ThreeInsideDown 
 - ThreeBlackCrows 
 - EveningStar 
-'''
+
+_________
+
 - BullishEngulfing 
 - ThreeOutsideUp 
 - BullishHarami 
