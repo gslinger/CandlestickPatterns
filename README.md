@@ -6,13 +6,27 @@ This is largely an educational project, so feel free to offer advice, criticism 
 
 The formulas i use to detect are based on the OHLC criteria and my main source is : https://www.candlescanner.com/patterns-dictionary/
 
+To use this module, you'll need to import the module into your project and configure the Sheet/Range variables to fit your dataset.
+
+Additionally, i have included an example .xlsm with AAPL daily data, with the module configured. 
+
+
+
 # Current Pattern List:
- - Doji
- - Bearish Engulfing
- - Dark Cloud Cover
- - Three Outside Down
- - Evening Star Doji
- - Bearish Harami
+-BearishEngulfing 
+-DarkCloudCover
+-ThreeOutsideDown 
+-EveningStarDoji 
+-BearishHarami
+-ThreeInsideDown 
+-ThreeBlackCrows 
+-EveningStar 
+'''
+-BullishEngulfing 
+-ThreeOutsideUp 
+-BullishHarami 
+-ThreeInsideUp 
+-PiercingLine 
 
 # To-Do 
 - Add more candle stick patterns
@@ -23,9 +37,5 @@ The formulas i use to detect are based on the OHLC criteria and my main source i
 - (maybe) plotting
 - (maybe) testing
 - (maybe) add functions to detect candle color, shape, trend etc.
-
-To use this module, you'll need to import the module into your project and configure the Sheet/Range variables to fit your dataset.
-
-Additionally, i have included an example .xlsm with AAPL daily data, with the module configured. 
 
 
